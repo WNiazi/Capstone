@@ -8,7 +8,7 @@ Shooter?
 
 ## Project's Purpose or Goal:
 
-A C sharp game one/two players.
+A GD scripts game one/two players.
 
 List the absolute minimum features the project requires to meet this purpose or goal:
 
